@@ -13,6 +13,10 @@
 body {
   margin: 0;
   padding: 0;
+      background-color: #111927;
+    background-image: 
+        radial-gradient(at 49% 50%, hsl(230.85, 48%, 30%) 0, transparent 59%), 
+        radial-gradient(at 82% 65%, hsl(232.00, 37%, 8%) 0, transparent 55%);
 }
 
 html::-webkit-scrollbar {
